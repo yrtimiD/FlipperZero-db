@@ -1,0 +1,12 @@
+# Fan
+Hyundai hy-1189w-25ct
+
+# Remote
+DY1189T
+PWM24F0642363
+
+# Controller
+EH-LVMA001
+
+DY1189T
+PWM24F0642363
